@@ -1,0 +1,15 @@
+{
+  "name": "Feeder RSS",
+  "description": "A simple RSS reader",
+  "launch_path": "/rss.html",
+  "icons": {
+    "128": "/images/app_icon_128.png",
+    "60": "/images/app_icon_60.png"
+  },
+  "version": "0.1",
+  "developer": {
+    "name": "Ramon Venson",
+    "url": "http://rvensonvps.zapto.org"
+  },
+  "default_locale": "pt_BR"
+}
